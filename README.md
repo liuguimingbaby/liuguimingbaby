@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @liuguimingbaby
-- 👀 I’m interested in cs-self-leaning
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in cs-self-leaning,pingpong.
+- 🌱 I’m currently learning web security.
+- 📫 How to reach me liuguiming244@outlook.com
+- 😄 Pronouns: ...practice makes perfect.
 - ⚡ Fun fact: ...
 
 <!---
